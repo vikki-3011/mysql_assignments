@@ -1,0 +1,4 @@
+create database guvi;
+use guvi;
+create table guvi(email varchar(25),first_name char(20),roll_no varchar(25),address varchar(25),sex varchar(25),phonenumber varchar(25),refemail varchar(25),city varchar(25));
+                     
