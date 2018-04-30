@@ -1,0 +1,4 @@
+create table detail(id integer, name varchar(100),dept char(3));
+insert into detail(id, name,dept) values(1, "Hello",'eee');
+select id from detail;
+select name from detail;
